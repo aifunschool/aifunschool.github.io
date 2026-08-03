@@ -1,5 +1,5 @@
 {
-    "version": "26.2",
+    "version": "26.0",
     "versionCode": 260001,
     "changelog": "修復主畫面搜索功能在平板上的點擊問題。\n新增自動更新功能。",
     "apkUrl": "https://storage.cloud.google.com/aifunupdata/apk%E5%8C%85/AiFunSchool.apk?authuser=1",
