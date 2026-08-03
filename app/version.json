@@ -1,0 +1,6 @@
+{
+    "version": "26.1",
+    "versionCode": 260001,
+    "changelog": "修復主畫面搜索功能在平板上的點擊問題",
+    "apkUrl": "https://github.com/aifunschool/aifunschool-qt/releases/download/v26.1/AiFunSchool.apk"
+}
