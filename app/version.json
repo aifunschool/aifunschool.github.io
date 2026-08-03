@@ -1,7 +1,7 @@
 {
-    "version": "26.2",
-    "versionCode": 260201,
-    "changelog": "修復「長」字注音讀音（成長 ㄓㄤˇ、長度 ㄔㄤˊ）。\n修復主畫面搜索功能在平板上的點擊問題。\n新增自動更新功能。",
-    "apkUrl": "https://storage.googleapis.com/aifunupdata/apk%E5%8C%85/AiFunSchool.apk",
-    "sha256": "40cafb05c62a4027b6aa6c0791122a6dcf0b0645173b2b1e62c3b2beee985c97"
+    "version": "26.0",
+    "versionCode": 260001,
+    "changelog": "修復主畫面搜索功能在平板上的點擊問題。\n新增自動更新功能。",
+    "apkUrl": "https://storage.cloud.google.com/aifunupdata/apk%E5%8C%85/AiFunSchool.apk?authuser=1",
+    "sha256": "8b76c508bbd040a65a94a0b6487347a1ef596f41322151a3f266dc912592b9c3"
 }
