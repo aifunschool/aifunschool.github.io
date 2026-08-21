@@ -1,5 +1,5 @@
 {
-  "version": "26.2",
+  "version": "26.1"
   "versionCode": 260202,
   "changelog": "修復繁體多音字在活動標題與說明文字的讀音顯示(重組/重繪等讀音校正)。",
   "apkUrl": "https://storage.googleapis.com/aifunupdata/apk%E5%8C%85/AiFunSchool.apk",
