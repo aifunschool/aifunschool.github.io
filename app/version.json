@@ -1,7 +1,7 @@
 {
   "version": "26.2",
-  "versionCode": 260202,
-  "changelog": "修復繁體多音字在活動標題與說明文字的讀音顯示(重組/重繪等讀音校正)。",
+  "versionCode": 260203,
+  "changelog": "修復更新對話框反覆彈出的問題;修復多音字讀音顯示。",
   "apkUrl": "https://storage.googleapis.com/aifunupdata/apk%E5%8C%85/AiFunSchool.apk",
-  "sha256": "534b4f2b90b80ed25be05b438649e986410e9affbb7d4359eaccb9d9229ea2ec"
+  "sha256": "52252ca62bc3453706fe4a632b716ba064aa765d4d8a507631b1e93d1ce4bab1"
 }
