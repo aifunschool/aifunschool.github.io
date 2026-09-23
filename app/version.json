@@ -1,7 +1,7 @@
 {
   "version": "26.2",
-  "versionCode": 260203,
-  "changelog": "修復更新對話框反覆彈出的問題;修復多音字讀音顯示。",
+  "versionCode": 260205,
+  "changelog": "修復音樂等多處多音字讀音顯示問題。",
   "apkUrl": "https://storage.googleapis.com/aifunupdata/apk%E5%8C%85/AiFunSchool.apk",
-  "sha256": "52252ca62bc3453706fe4a632b716ba064aa765d4d8a507631b1e93d1ce4bab1"
+  "sha256": "d2312b30969210cdaa746d82aba742ea1eca7327b9263fd0a1373390b2d5736c"
 }
